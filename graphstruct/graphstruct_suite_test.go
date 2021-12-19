@@ -1,4 +1,4 @@
-package graphs_test
+package graphstruct_test
 
 import (
 	"testing"
@@ -7,7 +7,7 @@ import (
 	. "github.com/onsi/gomega"
 )
 
-func TestGraphs(t *testing.T) {
+func TestGraphstruct(t *testing.T) {
 	RegisterFailHandler(Fail)
-	RunSpecs(t, "Graphs Suite")
+	RunSpecs(t, "Graphstruct Suite")
 }

@@ -1,7 +1,7 @@
-package graphs
+package main
 
 func main() {
-	graph := Graph{}
+	graph := Node{}
 	a := &Node{value: "a"}
 	b := &Node{value: "b"}
 	graph.AddNode(a)
