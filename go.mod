@@ -1,4 +1,4 @@
-module github.com/coding-toolkit
+module github.com/tychristensen/coding-toolkit
 
 go 1.17
 
