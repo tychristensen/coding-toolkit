@@ -1,4 +1,4 @@
-package graphstruct
+package graphs
 
 import "sync"
 

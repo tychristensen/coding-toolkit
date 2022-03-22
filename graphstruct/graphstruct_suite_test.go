@@ -1,4 +1,4 @@
-package graphstruct_test
+package graphs_test
 
 import (
 	"testing"
