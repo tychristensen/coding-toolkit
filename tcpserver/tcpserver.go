@@ -48,6 +48,6 @@ func handleConn(conn net.Conn) {
 			return
 		}
 
-		conn.Write([]byte("damn boi\n>"))
+		conn.Write([]byte("test message\n>"))
 	}
 }
