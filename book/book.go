@@ -8,6 +8,7 @@ import (
 
 // Book is a data structure that represents a book
 type Book struct {
+	Title   string
 	Author  string
 	PubDate date.Date
 }
